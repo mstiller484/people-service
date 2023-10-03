@@ -1,2 +1,4 @@
-package com.codinginterface.peopleservice.commands;public class CreatePeopleCommand {
+package com.codinginterface.peopleservice.commands;
+
+public class CreatePeopleCommand {
 }
